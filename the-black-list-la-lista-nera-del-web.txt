@@ -1,0 +1,160 @@
+# ------------------------------------[UPDATE]--------------------------
+# Title: Bufale.net: THE BLACK LIST
+# Homepage: https://www.bufale.net/the-black-list-la-lista-nera-del-web/
+# Expires: 1 year
+# Homepage: https://filippobuletto.github.io/pihole-hoax-sites-list/
+# Help: https://github.com/filippobuletto/pihole-hoax-sites-list/issues
+# License: MIT License
+# ------------------------------------[SUPPORT]-------------------------
+# You can support by:
+# - reporting false positives
+# -------------------------------------[INFO]---------------------------
+#
+# Abuse list
+# ------------------------------------[FILTERS]-------------------------
+
+# false testate giornalistiche
+
+notiziepericolose.blogspot.it
+www.ilmattoquotidiano.it
+www.ilmessaggio.it
+www.ilfattoquotidaino.it
+ilquotidaino.wordpress.com
+www.liberogiornale.com
+notiziariosegreto.wordpress.com
+secretnews.fr
+superbamente.com
+worldnewsdailyreport.com
+www.fonteverificata.it
+
+# Siti di bufale e disinformazione medica e scientifica
+
+www.dionidream.com
+lastella.altervista.org
+www.segnidalcielo.it
+pianetablunews.wordpress.com
+saltoquantico.org
+autismovaccini.org
+www.jedanews.it
+www.naturalnews.com
+www.notiziespericolate.com
+viaggialowcost.altervista.org
+sadefenza.blogspot.com
+www.renovatio21.com
+
+# Siti di disinformazione politica
+
+devinformarti.blogspot.it
+www.imolaoggi.it
+scenarieconomici.it
+voxnews.info
+www.informarexresistere.fr
+www.jedanews.it/blog
+www.breaknotizie.com
+www.direttanews24.com
+www.fascinazione.info
+www.notiziespericolate.com
+tg5stelle.it
+blogopenyoureyes.altervista.org
+ilbazarinformazione.blogspot.it
+informare.over-blog.it
+notizieinmovimentonews.blogspot.it
+www.tg24-ore.com
+sadefenza.blogspot.com
+informaresenzacensure.blogspot.com
+www.byoblu.com
+www.mag24.es
+
+# Siti di disinformazione a sfondo religioso eo razziale
+
+voxnews.info
+www.imolaoggi.it
+ilbazarinformazione.blogspot.it
+www.tg24-ore.com
+sadefenza.blogspot.com
+
+# Siti di bufale scandalistiche
+
+devinformarti.blogspot.it
+www.iocritico.com
+scenarieconomici.it
+www.sostenitori.info
+irresponsabile.com
+www.notiziespericolate.com
+aidaa-animaliambiente.blogspot.it
+ilbazarinformazione.blogspot.it
+thuglifevideos.com
+yournewswire.com
+www.tg24-ore.com
+viaggialowcost.altervista.org
+sadefenza.blogspot.com
+www.maurizioblondet.it
+informaresenzacensure.blogspot.com
+www.mag24.es
+
+# Siti di bufale a sfondo politico e razziale
+
+www.sostenitori.info
+devinformarti.blogspot.it
+www.direttanews24.com
+www.fascinazione.info
+ilbazarinformazione.blogspot.it
+www.tg24-ore.com
+sadefenza.blogspot.com
+
+# Siti clickbait
+
+www.dionidream.com
+www.essere-informati.it
+www.tgnewsitalia.it
+voxnews.info
+www.nocensura.com
+tuttiicriminidegliimmigrati.com
+www.vnews24.it
+www.tgnewsitalia.it
+www.direttanews.it
+www.direttanews24.com
+informatitalia.blogspot.it
+www.internapoli.it
+www.jedanews.it
+newscronaca.it
+www.notiziespericolate.com
+www.perdavvero.com
+socialbuzz.it
+tg5stelle.it
+thuglifevideos.com
+direttanfo.blogspot.it
+www.tg24-ore.com
+viaggialowcost.altervista.org
+sadefenza.blogspot.com
+www.maurizioblondet.it
+informaresenzacensure.blogspot.com
+www.byoblu.com
+www.mag24.es
+www.worldnotix.net
+
+# I siti e le pagine Facebook dei complottisti
+
+sulatestagiannilannes.blogspot.it
+saltoquantico.org
+scenarieconomici.it
+www.tmcrew.org
+www.tanker-enemy.com
+www.tankerenemy.com
+www.jedanews.it
+www.segnidalcielo.it
+www.nocensura.com
+voxnews.info
+sapereeundovere.com
+www.informarexresistere.fr
+www.luogocomune.net
+pianetablunews.wordpress.com
+www.disinformazione.it
+www.centrometeoitaliano.it
+informatitalia.blogspot.it
+www.notiziespericolate.com
+www.signoraggio.it
+albainternazionale.blogspot.it
+sadefenza.blogspot.com
+www.maurizioblondet.it
+informaresenzacensure.blogspot.com

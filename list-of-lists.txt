@@ -1,0 +1,2 @@
+https://filippobuletto.github.io/pihole-hoax-sites-list/coronavirus-misinformation-tracking-center.txt
+https://filippobuletto.github.io/pihole-hoax-sites-list/the-black-list-la-lista-nera-del-web.txt
